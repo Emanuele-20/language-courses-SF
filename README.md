@@ -8,9 +8,13 @@
 2. Create locally a project folder and set everything to be pushed into your verson controll system
    - SFDX: Create Project with Manifest ( command to “create” a new folder and set it up for SFDX )
    - Initialize the repositoy ( git init command OR Source Control Button in the Editor --> Initialize repository )
-   - Add all files to be commited ( git add . command OR manually add the file changed to the stage --> Commit button )
+   - COMMIT - Add all files to be commited ( git add . command OR manually add the file changed to the stage --> Commit button )
    - Publish branch 
    - Push ( command to “push” your local changes to the remote origin )
+
+3. now that we have a remote folder on Git-Hub, each developer can branch out and work on their own version of the code
+
+
 
 
 
