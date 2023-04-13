@@ -13,11 +13,22 @@
    - Push ( command to “push” your local changes to the remote origin )
 
 3. now that we have a remote folder on Git-Hub, each developer can branch out and work on their own version of the code
+
 4. From the developer local machine:
     - Git Clone the remote repository, to have locally all the data. Do that by using git clone https://github.com/[username]/[repository name].git OR Plaette --> Git Clone
+
 5. Branch out from master
     - Palette --> git create branch OR by using git commands
     - Publish the branch ( as we did before )
+
+6. Authorize an ORG
+    - Link your folder to an Environment ( Test, Prod ....)
+    -  SFDX: Authorize an Org
+
+7. Start work on the new features !!!!!!!
+----
+
+
 
 
 
