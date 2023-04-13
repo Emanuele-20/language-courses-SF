@@ -28,6 +28,15 @@
 7. Start work on the new features !!!!!!!
 ----
 
+## Ella Features
+1. Create a new custom Object - "Language Course Instructor" & "Language Course"
+2. Select a tab for them
+3. Create a M/D field on the "Language Course" object related to the "Language Course Instructor" object
+4. Track the chenges of needed
+5. Retrieve the changes from the Sandbox to the local SD project 
+ - Via Editor ( Org Browser )
+ - Via Salesforce CLI
+
 
 
 
