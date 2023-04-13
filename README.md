@@ -1,3 +1,20 @@
+## At the very beginning
+1. Set your machine
+    - Install Salesforce CLI
+    - Install VS Code + Salesforce Extensions for Visual Studio Code
+    - Install and Setup Git
+    - Create GitHub account and link a Github folder project to the folder project on you machine
+
+2. Create locally a project folder and set everything to be pushed into your verson controll system
+   - SFDX: Create Project with Manifest ( command to “create” a new folder and set it up for SFDX )
+   - Initialize the repositoy ( git init command OR Source Control Button in the Editor --> Initialize repository )
+   - Add all files to be commited ( git add . command OR manually add the file changed to the stage --> Commit button )
+   - Publish branch 
+   - Push ( command to “push” your local changes to the remote origin )
+
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
