@@ -14,6 +14,32 @@
 
 3. now that we have a remote folder on Git-Hub, each developer can branch out and work on their own version of the code
 
+4. From the developer local machine:
+    - Git Clone the remote repository, to have locally all the data. Do that by using git clone https://github.com/[username]/[repository name].git OR Plaette --> Git Clone
+
+5. Branch out from master
+    - Palette --> git create branch OR by using git commands
+    - Publish the branch ( as we did before )
+
+6. Authorize an ORG
+    - Link your folder to an Environment ( Test, Prod ....)
+    -  SFDX: Authorize an Org
+
+7. Start work on the new features !!!!!!!
+----
+
+## Ella Features
+1. Create a new custom Object - "Language Course Instructor" & "Language Course"
+2. Select a tab for them
+3. Create a M/D field on the "Language Course" object related to the "Language Course Instructor" object
+4. Track the chenges of needed
+5. Retrieve the changes from the Sandbox to the local SD project 
+ - Via Editor ( Org Browser )
+ - Via Salesforce CLI
+
+
+
+
 
 
 
