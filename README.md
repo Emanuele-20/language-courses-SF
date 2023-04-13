@@ -36,6 +36,24 @@
 5. Retrieve the changes from the Sandbox to the local SD project 
  - Via Editor ( Org Browser )
  - Via Salesforce CLI
+6. Commint and push on Git-hub branch
+7. Make a Pull request to merge the new feature in the master branch
+
+----
+
+Ella Environment: https://mycompanyltd-dev-ed.develop.lightning.force.com/lightning/page/home
+Juan Environment: https://empathetic-koala-ia8o57-dev-ed.lightning.force.com/
+
+----
+
+## Juan Features
+ 1. First, Juan deploys Ella’s changes to his Developer sandbox
+  - Select the new object created, right click deploy 
+   OR
+  - sfdx force:source:deploy --metadata CustomObject:Language_Course_Instructor__c, \
+    CustomField:Language_Course__c.Course_Instructor__c
+
+2. Juan will developed the Trigger
 
 
 
