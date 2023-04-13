@@ -17,6 +17,7 @@
     - Git Clone the remote repository, to have locally all the data. Do that by using git clone https://github.com/[username]/[repository name].git OR Plaette --> Git Clone
 5. Branch out from master
     - Palette --> git create branch OR by using git commands
+    - Publish the branch ( as we did before )
 
 
 
